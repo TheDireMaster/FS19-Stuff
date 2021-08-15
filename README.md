@@ -1,2 +1,3 @@
 # FS19-Stuff
-Custom FS19 Maps, Mods etc
+Custom FS19 Content
+* Improved Maps (Reduced Trees etc)
